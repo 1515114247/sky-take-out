@@ -878,7 +878,7 @@ public class DishController {
     }
 }
 ```
-
+生成图片url，返回前端，点击添加再把url传到后端保存到数据库中
 
 
 **3). Service层接口**
